@@ -1,0 +1,8 @@
+{
+  "cities":[
+   { "name": "London"},
+   { "name": "San Francisco"},
+   { "name": "Qingdao" }
+  ],
+  "refreshFrequency":20
+}
